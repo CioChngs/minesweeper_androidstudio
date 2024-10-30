@@ -42,3 +42,11 @@ public class FirstFragment extends Fragment {
     }
 
 }
+
+//game mode
+//theme
+//reset
+//too hurtel ywdag
+//flag
+//hojigdoh
+//database
